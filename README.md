@@ -9,6 +9,7 @@
 - Spreadsheets
 - Docker
 - Python
+- [Streamlit](https://streamlit.io/)
 - APIs
 
 #### I’m always looking to start some awesome new projects.
