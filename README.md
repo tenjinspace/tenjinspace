@@ -14,7 +14,7 @@
 
 #### I’m always looking to start some awesome new projects.
 
-📫 How to reach me? [Try this](mailto:tenjinspace@protonmail.com).
+📫 How to reach me? [Try this](mailto:tenjinspace@proton.me).
 
 <!---
 tenjinspace/tenjinspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
